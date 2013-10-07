@@ -1,0 +1,1648 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1155214310, guid: 86da5fbf2fdd742fabee71203cfbdca4, type: 3}
+  m_Name: main_atlas
+  m_EditorClassIdentifier: 
+  elements:
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    coords:
+      serializedVersion: 2
+      x: .9765625
+      y: .99609375
+      width: 0
+      height: 0
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 184
+      y: 42
+      width: 13
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .19140625
+      y: .1484375
+      width: .025390625
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 186
+      y: 280
+      width: 23
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: .4765625
+      y: .349609375
+      width: .044921875
+      height: .033203125
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 51
+      y: 229
+      width: 19
+      height: 26
+    coords:
+      serializedVersion: 2
+      x: .875
+      y: .158203125
+      width: .037109375
+      height: .05078125
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 225
+      y: 0
+      width: 25
+      height: 34
+    coords:
+      serializedVersion: 2
+      x: .572265625
+      y: .416015625
+      width: .048828125
+      height: .06640625
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 93
+      y: 42
+      width: 36
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .1171875
+      y: .1484375
+      width: .0703125
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 42
+      width: 39
+      height: 32
+    coords:
+      serializedVersion: 2
+      x: .73828125
+      y: .419921875
+      width: .076171875
+      height: .0625
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 174
+      y: 280
+      width: 12
+      height: 17
+    coords:
+      serializedVersion: 2
+      x: .44921875
+      y: .349609375
+      width: .0234375
+      height: .033203125
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 99
+      y: 0
+      width: 21
+      height: 39
+    coords:
+      serializedVersion: 2
+      x: .91796875
+      y: .59375
+      width: .041015625
+      height: .076171875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 78
+      y: 0
+      width: 21
+      height: 39
+    coords:
+      serializedVersion: 2
+      x: .91796875
+      y: .673828125
+      width: .041015625
+      height: .076171875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 155
+      y: 280
+      width: 19
+      height: 18
+    coords:
+      serializedVersion: 2
+      x: .408203125
+      y: .34765625
+      width: .037109375
+      height: .03515625
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 50
+      y: 280
+      width: 23
+      height: 21
+    coords:
+      serializedVersion: 2
+      x: .330078125
+      y: .341796875
+      width: .044921875
+      height: .041015625
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 142
+      y: 280
+      width: 13
+      height: 19
+    coords:
+      serializedVersion: 2
+      x: .37890625
+      y: .345703125
+      width: .025390625
+      height: .037109375
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 303
+      width: 14
+      height: 10
+    coords:
+      serializedVersion: 2
+      x: .947265625
+      y: .4921875
+      width: .02734375
+      height: .01953125
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 232
+      y: 280
+      width: 13
+      height: 12
+    coords:
+      serializedVersion: 2
+      x: .91796875
+      y: .48828125
+      width: .025390625
+      height: .0234375
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 201
+      y: 0
+      width: 24
+      height: 36
+    coords:
+      serializedVersion: 2
+      x: .521484375
+      y: .412109375
+      width: .046875
+      height: .0703125
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 70
+      y: 229
+      width: 26
+      height: 26
+    coords:
+      serializedVersion: 2
+      x: .8203125
+      y: .158203125
+      width: .05078125
+      height: .05078125
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 96
+      y: 229
+      width: 25
+      height: 26
+    coords:
+      serializedVersion: 2
+      x: .767578125
+      y: .158203125
+      width: .048828125
+      height: .05078125
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 24
+      y: 229
+      width: 27
+      height: 27
+    coords:
+      serializedVersion: 2
+      x: .7109375
+      y: .15625
+      width: .052734375
+      height: .052734375
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 74
+      y: 198
+      width: 29
+      height: 30
+    coords:
+      serializedVersion: 2
+      x: .486328125
+      y: .150390625
+      width: .056640625
+      height: .05859375
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 224
+      y: 42
+      width: 27
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .060546875
+      y: .1484375
+      width: .052734375
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 49
+      y: 198
+      width: 25
+      height: 30
+    coords:
+      serializedVersion: 2
+      x: .43359375
+      y: .150390625
+      width: .048828125
+      height: .05859375
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 191
+      y: 198
+      width: 27
+      height: 29
+    coords:
+      serializedVersion: 2
+      x: .546875
+      y: .15234375
+      width: .052734375
+      height: .056640625
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 39
+      y: 42
+      width: 27
+      height: 32
+    coords:
+      serializedVersion: 2
+      x: .681640625
+      y: .419921875
+      width: .052734375
+      height: .0625
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 218
+      y: 198
+      width: 27
+      height: 28
+    coords:
+      serializedVersion: 2
+      x: .654296875
+      y: .154296875
+      width: .052734375
+      height: .0546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 197
+      y: 42
+      width: 27
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .00390625
+      y: .1484375
+      width: .052734375
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 121
+      y: 229
+      width: 13
+      height: 23
+    coords:
+      serializedVersion: 2
+      x: .96484375
+      y: .1640625
+      width: .025390625
+      height: .044921875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 36
+      y: 198
+      width: 13
+      height: 30
+    coords:
+      serializedVersion: 2
+      x: .404296875
+      y: .150390625
+      width: .025390625
+      height: .05859375
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 119
+      y: 280
+      width: 23
+      height: 21
+    coords:
+      serializedVersion: 2
+      x: .28125
+      y: .341796875
+      width: .044921875
+      height: .041015625
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 209
+      y: 280
+      width: 23
+      height: 15
+    coords:
+      serializedVersion: 2
+      x: .525390625
+      y: .353515625
+      width: .044921875
+      height: .029296875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 96
+      y: 280
+      width: 23
+      height: 21
+    coords:
+      serializedVersion: 2
+      x: .232421875
+      y: .341796875
+      width: .044921875
+      height: .041015625
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 162
+      y: 42
+      width: 22
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .951171875
+      y: .212890625
+      width: .04296875
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 129
+      y: 42
+      width: 33
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .8828125
+      y: .212890625
+      width: .064453125
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 198
+      width: 36
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .80859375
+      y: .212890625
+      width: .0703125
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 220
+      y: 167
+      width: 32
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .7421875
+      y: .212890625
+      width: .0625
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 188
+      y: 167
+      width: 32
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .67578125
+      y: .212890625
+      width: .0625
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 153
+      y: 167
+      width: 35
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .603515625
+      y: .212890625
+      width: .068359375
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 122
+      y: 167
+      width: 31
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .5390625
+      y: .212890625
+      width: .060546875
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 90
+      y: 167
+      width: 32
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .47265625
+      y: .212890625
+      width: .0625
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 55
+      y: 167
+      width: 35
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .400390625
+      y: .212890625
+      width: .068359375
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 19
+      y: 167
+      width: 36
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .326171875
+      y: .212890625
+      width: .0703125
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 167
+      width: 19
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .28515625
+      y: .212890625
+      width: .037109375
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 207
+      y: 136
+      width: 31
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .220703125
+      y: .212890625
+      width: .060546875
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 170
+      y: 136
+      width: 37
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .14453125
+      y: .212890625
+      width: .072265625
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 141
+      y: 136
+      width: 29
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .083984375
+      y: .212890625
+      width: .056640625
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 102
+      y: 136
+      width: 39
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .00390625
+      y: .212890625
+      width: .076171875
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 65
+      y: 136
+      width: 37
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .919921875
+      y: .27734375
+      width: .072265625
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 31
+      y: 136
+      width: 34
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .849609375
+      y: .27734375
+      width: .06640625
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 136
+      width: 31
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .78515625
+      y: .27734375
+      width: .060546875
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 137
+      y: 0
+      width: 34
+      height: 38
+    coords:
+      serializedVersion: 2
+      x: .91796875
+      y: .515625
+      width: .06640625
+      height: .07421875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 216
+      y: 105
+      width: 35
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .712890625
+      y: .27734375
+      width: .068359375
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 187
+      y: 105
+      width: 29
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .65234375
+      y: .27734375
+      width: .056640625
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 155
+      y: 105
+      width: 32
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .5859375
+      y: .27734375
+      width: .0625
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 119
+      y: 105
+      width: 36
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .51171875
+      y: .27734375
+      width: .0703125
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 82
+      y: 105
+      width: 37
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .435546875
+      y: .27734375
+      width: .072265625
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 36
+      y: 105
+      width: 46
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .341796875
+      y: .27734375
+      width: .08984375
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 105
+      width: 36
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .267578125
+      y: .27734375
+      width: .0703125
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 208
+      y: 74
+      width: 37
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .19140625
+      y: .27734375
+      width: .072265625
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 177
+      y: 74
+      width: 31
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .126953125
+      y: .27734375
+      width: .060546875
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 61
+      y: 0
+      width: 17
+      height: 39
+    coords:
+      serializedVersion: 2
+      x: .955078125
+      y: .75390625
+      width: .033203125
+      height: .076171875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 171
+      y: 0
+      width: 30
+      height: 36
+    coords:
+      serializedVersion: 2
+      x: .458984375
+      y: .412109375
+      width: .05859375
+      height: .0703125
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 44
+      y: 0
+      width: 17
+      height: 39
+    coords:
+      serializedVersion: 2
+      x: .91796875
+      y: .75390625
+      width: .033203125
+      height: .076171875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 73
+      y: 280
+      width: 23
+      height: 21
+    coords:
+      serializedVersion: 2
+      x: .18359375
+      y: .341796875
+      width: .044921875
+      height: .041015625
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 51
+      y: 303
+      width: 24
+      height: 4
+    coords:
+      serializedVersion: 2
+      x: .5390625
+      y: .400390625
+      width: .046875
+      height: .0078125
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 37
+      y: 303
+      width: 14
+      height: 9
+    coords:
+      serializedVersion: 2
+      x: .5078125
+      y: .390625
+      width: .02734375
+      height: .017578125
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 24
+      y: 280
+      width: 26
+      height: 23
+    coords:
+      serializedVersion: 2
+      x: .69140625
+      y: .099609375
+      width: .05078125
+      height: .044921875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 147
+      y: 74
+      width: 30
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .064453125
+      y: .27734375
+      width: .05859375
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 280
+      width: 24
+      height: 23
+    coords:
+      serializedVersion: 2
+      x: .640625
+      y: .099609375
+      width: .046875
+      height: .044921875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 118
+      y: 74
+      width: 29
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .00390625
+      y: .27734375
+      width: .056640625
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 208
+      y: 257
+      width: 24
+      height: 23
+    coords:
+      serializedVersion: 2
+      x: .58984375
+      y: .099609375
+      width: .046875
+      height: .044921875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 98
+      y: 74
+      width: 20
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .951171875
+      y: .421875
+      width: .0390625
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 66
+      y: 42
+      width: 27
+      height: 32
+    coords:
+      serializedVersion: 2
+      x: .625
+      y: .419921875
+      width: .052734375
+      height: .0625
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 67
+      y: 74
+      width: 31
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .88671875
+      y: .421875
+      width: .060546875
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 50
+      y: 74
+      width: 17
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .962890625
+      y: .609375
+      width: .033203125
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 120
+      y: 0
+      width: 17
+      height: 39
+    coords:
+      serializedVersion: 2
+      x: .95703125
+      y: .833984375
+      width: .033203125
+      height: .076171875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 17
+      y: 74
+      width: 33
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .818359375
+      y: .421875
+      width: .064453125
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 74
+      width: 17
+      height: 31
+    coords:
+      serializedVersion: 2
+      x: .962890625
+      y: .689453125
+      width: .033203125
+      height: .060546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 166
+      y: 257
+      width: 42
+      height: 23
+    coords:
+      serializedVersion: 2
+      x: .50390625
+      y: .099609375
+      width: .08203125
+      height: .044921875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 136
+      y: 257
+      width: 30
+      height: 23
+    coords:
+      serializedVersion: 2
+      x: .44140625
+      y: .099609375
+      width: .05859375
+      height: .044921875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 109
+      y: 257
+      width: 27
+      height: 23
+    coords:
+      serializedVersion: 2
+      x: .384765625
+      y: .099609375
+      width: .052734375
+      height: .044921875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 161
+      y: 198
+      width: 30
+      height: 30
+    coords:
+      serializedVersion: 2
+      x: .341796875
+      y: .150390625
+      width: .05859375
+      height: .05859375
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 132
+      y: 198
+      width: 29
+      height: 30
+    coords:
+      serializedVersion: 2
+      x: .28125
+      y: .150390625
+      width: .056640625
+      height: .05859375
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 84
+      y: 257
+      width: 25
+      height: 23
+    coords:
+      serializedVersion: 2
+      x: .33203125
+      y: .099609375
+      width: .048828125
+      height: .044921875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 62
+      y: 257
+      width: 22
+      height: 23
+    coords:
+      serializedVersion: 2
+      x: .28515625
+      y: .099609375
+      width: .04296875
+      height: .044921875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 229
+      width: 24
+      height: 28
+    coords:
+      serializedVersion: 2
+      x: .603515625
+      y: .154296875
+      width: .046875
+      height: .0546875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 31
+      y: 257
+      width: 31
+      height: 23
+    coords:
+      serializedVersion: 2
+      x: .220703125
+      y: .099609375
+      width: .060546875
+      height: .044921875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 257
+      width: 31
+      height: 23
+    coords:
+      serializedVersion: 2
+      x: .15625
+      y: .099609375
+      width: .060546875
+      height: .044921875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 185
+      y: 229
+      width: 46
+      height: 23
+    coords:
+      serializedVersion: 2
+      x: .0625
+      y: .099609375
+      width: .08984375
+      height: .044921875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 157
+      y: 229
+      width: 28
+      height: 23
+    coords:
+      serializedVersion: 2
+      x: .00390625
+      y: .099609375
+      width: .0546875
+      height: .044921875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 103
+      y: 198
+      width: 29
+      height: 30
+    coords:
+      serializedVersion: 2
+      x: .220703125
+      y: .150390625
+      width: .056640625
+      height: .05859375
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 134
+      y: 229
+      width: 23
+      height: 23
+    coords:
+      serializedVersion: 2
+      x: .916015625
+      y: .1640625
+      width: .044921875
+      height: .044921875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 26
+      y: 0
+      width: 18
+      height: 39
+    coords:
+      serializedVersion: 2
+      x: .91796875
+      y: .833984375
+      width: .03515625
+      height: .076171875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 8
+      height: 42
+    coords:
+      serializedVersion: 2
+      x: .91796875
+      y: .9140625
+      width: .015625
+      height: .08203125
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 8
+      y: 0
+      width: 18
+      height: 39
+    coords:
+      serializedVersion: 2
+      x: .9375
+      y: .919921875
+      width: .03515625
+      height: .076171875
+    rotated: 0
+  - name: CooperStd-hd
+    originalWidth: 256
+    originalHeight: 512
+    trimRect:
+      serializedVersion: 2
+      x: 14
+      y: 303
+      width: 23
+      height: 9
+    coords:
+      serializedVersion: 2
+      x: .458984375
+      y: .390625
+      width: .044921875
+      height: .017578125
+    rotated: 0
+  - name: dango_green
+    originalWidth: 45
+    originalHeight: 49
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 45
+      height: 49
+    coords:
+      serializedVersion: 2
+      x: .3671875
+      y: .38671875
+      width: .087890625
+      height: .095703125
+    rotated: 0
+  - name: dango_pink
+    originalWidth: 45
+    originalHeight: 49
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 45
+      height: 49
+    coords:
+      serializedVersion: 2
+      x: .18359375
+      y: .38671875
+      width: .087890625
+      height: .095703125
+    rotated: 0
+  - name: dango_white
+    originalWidth: 45
+    originalHeight: 49
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 45
+      height: 49
+    coords:
+      serializedVersion: 2
+      x: .275390625
+      y: .38671875
+      width: .087890625
+      height: .095703125
+    rotated: 0
+  - name: gauze
+    originalWidth: 90
+    originalHeight: 72
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 90
+      height: 72
+    coords:
+      serializedVersion: 2
+      x: .00390625
+      y: .341796875
+      width: .17578125
+      height: .140625
+    rotated: 0
+  - name: sword
+    originalWidth: 148
+    originalHeight: 14
+    trimRect:
+      serializedVersion: 2
+      x: 74
+      y: 0
+      width: 74
+      height: 14
+    coords:
+      serializedVersion: 2
+      x: .57421875
+      y: .35546875
+      width: .14453125
+      height: .02734375
+    rotated: 0
+  - name: yuyuko_hit
+    originalWidth: 232
+    originalHeight: 261
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 232
+      height: 261
+    coords:
+      serializedVersion: 2
+      x: .4609375
+      y: .486328125
+      width: .453125
+      height: .509765625
+    rotated: 0
+  - name: yuyuko_normal
+    originalWidth: 232
+    originalHeight: 261
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 232
+      height: 261
+    coords:
+      serializedVersion: 2
+      x: .00390625
+      y: .486328125
+      width: .453125
+      height: .509765625
+    rotated: 0
+  material: {fileID: 2100000, guid: 76bbdecf32f6e4bca89d86ff0f596fdc, type: 2}
+  texture: {fileID: 2800000, guid: 7fc5a8a9e68724befac9f18b5090c2d8, type: 3}

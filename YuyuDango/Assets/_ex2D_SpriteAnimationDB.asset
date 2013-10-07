@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1710302844, guid: 77f72665dddd347bba153c5cb5a2df66, type: 3}
+  m_Name: _ex2D_SpriteAnimationDB
+  m_EditorClassIdentifier: 
+  curVersion: 1
+  spAnimClipGUIDs:
+  - aa29e305bce7543839cafcbaac481792
+  - 75cc44564a4864571919908b72c455d8
+  guidInfos:
+  - guidAnimClip: aa29e305bce7543839cafcbaac481792
+    guidTexture: 1bad50a375e1d4fd293a2161876149ad
+  - guidAnimClip: 75cc44564a4864571919908b72c455d8
+    guidTexture: 4ffa27e9ba30b435eae91a7b00d3913f
+  showData: 1
+  showTable: 1

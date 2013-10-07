@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -916013278, guid: 77f72665dddd347bba153c5cb5a2df66, type: 3}
+  m_Name: _ex2D_AtlasDB
+  m_EditorClassIdentifier: 
+  curVersion: 2
+  atlasInfoGUIDs:
+  - a257d0920a5e147e9ac2703696212b9c
+  - 6ec1dc3e0a2eb4cd19a9c62e4b8eeb93
+  elementInfos:
+  - indexInAtlas: 95
+    indexInAtlasInfo: 95
+    guidTexture: 6685e5d1716a94885acee8409476d3b6
+    guidAtlas: bba99466535d74a8eac0645bcd178162
+    guidAtlasInfo: a257d0920a5e147e9ac2703696212b9c
+  - indexInAtlas: 96
+    indexInAtlasInfo: 96
+    guidTexture: a07d92f83655d4164bbecaa104d64846
+    guidAtlas: bba99466535d74a8eac0645bcd178162
+    guidAtlasInfo: a257d0920a5e147e9ac2703696212b9c
+  - indexInAtlas: 97
+    indexInAtlasInfo: 97
+    guidTexture: 13b9fe7cd18ff45c39d930b5bf0a182b
+    guidAtlas: bba99466535d74a8eac0645bcd178162
+    guidAtlasInfo: a257d0920a5e147e9ac2703696212b9c
+  - indexInAtlas: 98
+    indexInAtlasInfo: 98
+    guidTexture: 7e3903264e66845e48ae3163238d776d
+    guidAtlas: bba99466535d74a8eac0645bcd178162
+    guidAtlasInfo: a257d0920a5e147e9ac2703696212b9c
+  - indexInAtlas: 100
+    indexInAtlasInfo: 100
+    guidTexture: 1f35a25ef6cc14ccda237d2f56470e06
+    guidAtlas: bba99466535d74a8eac0645bcd178162
+    guidAtlasInfo: a257d0920a5e147e9ac2703696212b9c
+  - indexInAtlas: 102
+    indexInAtlasInfo: 102
+    guidTexture: 663ac26e8eae3417c88a2fe35d13d1d1
+    guidAtlas: bba99466535d74a8eac0645bcd178162
+    guidAtlasInfo: a257d0920a5e147e9ac2703696212b9c
+  - indexInAtlas: 95
+    indexInAtlasInfo: 95
+    guidTexture: 10e2520c6a42448e2bf7bef9be387058
+    guidAtlas: 22421d3e2809342768a77bd393aea0a8
+    guidAtlasInfo: 6ec1dc3e0a2eb4cd19a9c62e4b8eeb93
+  - indexInAtlas: 96
+    indexInAtlasInfo: 96
+    guidTexture: 63b0c3637d93c440eb920c0a92372cc7
+    guidAtlas: 22421d3e2809342768a77bd393aea0a8
+    guidAtlasInfo: 6ec1dc3e0a2eb4cd19a9c62e4b8eeb93
+  - indexInAtlas: 97
+    indexInAtlasInfo: 97
+    guidTexture: 1af4aa93286d2402fa0340f40c066830
+    guidAtlas: 22421d3e2809342768a77bd393aea0a8
+    guidAtlasInfo: 6ec1dc3e0a2eb4cd19a9c62e4b8eeb93
+  - indexInAtlas: 99
+    indexInAtlasInfo: 99
+    guidTexture: 1db0898ff36dd4177bfe82a17a522869
+    guidAtlas: 22421d3e2809342768a77bd393aea0a8
+    guidAtlasInfo: 6ec1dc3e0a2eb4cd19a9c62e4b8eeb93
+  - indexInAtlas: 100
+    indexInAtlasInfo: 100
+    guidTexture: 1bad50a375e1d4fd293a2161876149ad
+    guidAtlas: 22421d3e2809342768a77bd393aea0a8
+    guidAtlasInfo: 6ec1dc3e0a2eb4cd19a9c62e4b8eeb93
+  - indexInAtlas: 101
+    indexInAtlasInfo: 101
+    guidTexture: 4ffa27e9ba30b435eae91a7b00d3913f
+    guidAtlas: 22421d3e2809342768a77bd393aea0a8
+    guidAtlasInfo: 6ec1dc3e0a2eb4cd19a9c62e4b8eeb93
+  - indexInAtlas: 99
+    indexInAtlasInfo: 99
+    guidTexture: b14250cf479d04c5293a48eb92114e8c
+    guidAtlas: bba99466535d74a8eac0645bcd178162
+    guidAtlasInfo: a257d0920a5e147e9ac2703696212b9c
+  - indexInAtlas: 101
+    indexInAtlasInfo: 101
+    guidTexture: 5fc81cbf1a0854515bc6cdfc3cd5f21f
+    guidAtlas: bba99466535d74a8eac0645bcd178162
+    guidAtlasInfo: a257d0920a5e147e9ac2703696212b9c
+  - indexInAtlas: 98
+    indexInAtlasInfo: 98
+    guidTexture: d31c6c3616773475a9d771fd7addcb1c
+    guidAtlas: 22421d3e2809342768a77bd393aea0a8
+    guidAtlasInfo: 6ec1dc3e0a2eb4cd19a9c62e4b8eeb93
+  showData: 1
+  showTable: 1
