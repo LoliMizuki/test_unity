@@ -13,7 +13,8 @@ myself packages.
 test plugin "Playmaker".
 
 ## TestPolygonGenerator
-test how to create custom mseh by code.
+test how to create custom mesh by code.
+ref: 
 
 ## TestSQLLite
 test unity connect with sqlite, use SQLiteUnityKit(https://github.com/Busta117/SQLiteUnityKit).
